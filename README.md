@@ -1,6 +1,6 @@
 # 🌐 WordPress Company Website
 <p align="center">
-  <img src="screenshots/Home-Page.png" alt="Project Preview" width="1000">
+  <img src="Website-Images/Home-Page.png" alt="Project Preview" width="1000">
 </p>
 
 ![WordPress](https://img.shields.io/badge/Built%20With-WordPress-blue)
@@ -107,63 +107,47 @@ The chatbot helps visitors by:
 - guiding users to courses/services
 - improving engagement
 
----
+---# 📷 Website Screenshots
 
-# 📷 Website Screenshots
+## Home Page
 
-## 🏠 Home Page
-
-<p align="center">
-  <img src="screenshots/Home-Page.png" width="900">
-</p>
+![Home Page](Website-Images/Home-Page.png)
 
 ---
 
-## ℹ️ About Section
+## About Section
 
-<p align="center">
-  <img src="screenshots/About-Section.png" width="900">
-</p>
+![About Section](Website-Images/About-Section.png)
 
 ---
 
-## 🎓 Courses Page
+## Courses Page
 
-<p align="center">
-  <img src="screenshots/Courses-page.png" width="900">
-</p>
+![Courses Page](Website-Images/Courses-page.png)
 
 ---
 
-## 📘 BA Course Page
+## BA Course Page
 
-<p align="center">
-  <img src="screenshots/BA-course-Page.png" width="900">
-</p>
+![BA Course](Website-Images/BA-course-Page.png)
 
 ---
 
-## 📝 Blog Page
+## Blog Page
 
-<p align="center">
-  <img src="screenshots/Blog.png" width="900">
-</p>
+![Blog](Website-Images/Blog.png)
 
 ---
 
-## 📩 Contact Form
+## Contact Form
 
-<p align="center">
-  <img src="screenshots/Contact-form.png" width="900">
-</p>
+![Contact](Website-Images/Contact-form.png)
 
 ---
 
-## 🎯 Our Courses Section
+## Our Courses Section
 
-<p align="center">
-  <img src="screenshots/Our-courses.png" width="900">
-</p>
+![Our Courses](Website-Images/Our-courses.png)
 
 ---
 
